@@ -1,5 +1,3 @@
-[Gust FPC By Woyboy.md](https://github.com/user-attachments/files/33943107/Gust.FPC.By.Woyboy.md)
-
 # ⥻ Gust First-Person Controller
 
 **Unity 6.3 LTS (6000.3.261f1)**  
