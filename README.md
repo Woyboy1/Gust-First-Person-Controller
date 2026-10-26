@@ -65,5 +65,3 @@ LockPlayer(bool showCursor \= false) // Lock player controls completely
 UnlockPlayer() // Undo the LockPlayer()
 
 SetCursorVisible(bool visible) // Locking and hiding/showing cursor, careful when using this
-
-<img width="1362" height="2048" alt="image" src="https://github.com/user-attachments/assets/4f896c01-aa35-4dda-90ca-6ceecebac888" />
