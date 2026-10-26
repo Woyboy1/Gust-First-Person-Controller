@@ -28,14 +28,14 @@ Hello, and welcome to Gust FPC, also known as Gust First-Person Controller\! Thi
 
 Download the GitHub package manually. You can choose to download the entire project or download the UnityPackage file. I recommend the Unity Package as it sets up everything for you easily and *should* include all the necessary project settings. Once acquired, go to the /Scenes folder and find your BlankFPCScene or DemoScene to copy and paste your GustFPC. Then assign the necessary layers/values needed for the controller to work properly. **Click on Player,** **Check your Player Input to see if you have the right input (Although one is provided for you), Check the PlayerInteraction.cs and assign the Interaction Layer (Everything is set by default), lastly check the Sound Settings and create some layers. Default ground Layers are Grass, Metal, Snow**
 
-##### **TL:DR**
+##### 🔧 **TL:DR**
 
 - Download UnityPackage file or the entire thing  
 - Assign Player Input in the Player.cs script, (One is provided for you so this can be skipped)  
 - Assign a Interaction Layer in Player.cs (Everything is enabled by default, safe to skip)  
 - Create 3 layers based off the Ground Sounds, which you can find in Sound Settings of Player.cs (**Grass, Metal, Snow**)
 
-##### **How to add onto existing scenes?**
+##### 🔧 **How to add onto existing scenes?**
 
 - Go to /**Scenes** and find the **DemoScene** or the **BlankFPCScene**  
 - **Copy** the GustFPC Player GameObject   
